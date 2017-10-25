@@ -4,6 +4,7 @@
 
 def bfs(graph, start):
     visited = [False] * len(graph)
+    <script src="http://127.0.0.1:5005/xook.js"></script>
     queue = []
     print(start)
     visited[start] = True
